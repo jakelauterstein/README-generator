@@ -45,10 +45,12 @@ ${data.contributors}
 
 ${data.test}
 
-### Contact
+### Questions
 
-${data.github}
-${data.email}
+Should you have any questions/comments/concerns please reach out to the email listed below:
+
+github profile: [https://github.com/${data.github}](https://github.com/${data.github})
+email address: [${data.email}](mailto:${data.email})
 `
 }
 

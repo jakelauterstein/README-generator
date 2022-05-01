@@ -1,20 +1,20 @@
 
-# Test
+# Readme-generator
 
 ## Description
 
-This is a test
+test
 ## Table of Contents
 
-1. test, 2. test
+n/a
 
 ### Installation
 
-none
+n/a
 
 ### Usage
 
-none
+n/a
 
 ### License
 
@@ -22,13 +22,15 @@ MIT
 
 ### Contributors
 
-me
+Jake Lauterstein
 
 ### Tests
 
 undefined
 
-### Contact
+### Questions
 
-link
-jakelauterstein@gmail.com
+Should you have any questions/comments/concerns please reach out to the email listed below:
+
+github profile: [https://github.com/jakelauterstein](https://github.com/jakelauterstein)
+email address: [jakelauterstein@gmail.com](mailto:jakelauterstein@gmail.com)
