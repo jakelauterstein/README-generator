@@ -1,20 +1,20 @@
 
-# Readme-generator
+# Sample Project
 
 ## Description
 
-test
+This an example of the functionality of the README generator app
 ## Table of Contents
 
 n/a
 
 ### Installation
 
-n/a
+install node then run npm init and npm install inquirer
 
 ### Usage
 
-n/a
+answer the questions in the command line and observe the output file in the dest folder
 
 ### License
 
@@ -22,7 +22,7 @@ MIT
 
 ### Contributors
 
-Jake Lauterstein
+jake lauterstein
 
 ### Tests
 
